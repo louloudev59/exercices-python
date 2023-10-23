@@ -19,7 +19,7 @@ Bienvenue dans le projet Entraînement ! Ce dépôt a pour but de vous aider à 
 
 ## Projets disponibles
 - [Projet pour débutant](#projet-pour-débutant)
-  * [Programme de calcul](programme-de-calcul)
+  * [Programme de calcul](#programme-de-calcul)
 - [Projet pour expert](#projet-pour-expert)
 
 
