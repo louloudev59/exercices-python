@@ -18,9 +18,13 @@ Bienvenue dans le projet Entraînement ! Ce dépôt a pour but de vous aider à 
 - Les dossiers contiennent également des solutions complètes pour chaque exercice. Utilisez-les comme référence si vous avez besoin d'aide ou pour vérifier votre propre travail.
 
 ## Projets disponibles
+- [Projet pour débutant](#projet-pour-débutant)
+  * [Programme de calcul](programme-de-calcul)
+- [Projet pour expert](#projet-pour-expert)
 
-1. **Calculatrice Simple**
-   - Un exercice pour créer une calculatrice de base en utilisant un langage de programmation de votre choix.
+
+1. **Programme de Calcul**
+   - Un exercice pour créer un programme de calcul.
    - [Lien vers le projet](#)
 
 N'hésitez pas à explorer les différents projets et exercices disponibles, et à contribuer en soumettant vos propres solutions ou en proposant de nouveaux projets.
