@@ -1,7 +1,7 @@
 # Projet Entraînement
 - [Introduction](#introduction)
 - [Comment ça marche](#comment-ça-marche)
-- [Projets disponibles](#projets-disponibles)
+- [Niveaux disponibles](#niveaux-disponibles)
 - [Comment contribuer](#comment-contribuer)
 - [Licence](#licence)
 
@@ -17,13 +17,12 @@ Bienvenue dans le projet Entraînement ! Ce dépôt a pour but de vous aider à 
 
 - Les dossiers contiennent également des solutions complètes pour chaque exercice. Utilisez-les comme référence si vous avez besoin d'aide ou pour vérifier votre propre travail.
 
-## Projets disponibles
+## Niveaux disponibles
 - [Projet pour débutant](#projet-pour-débutant)
-  * [Programme de calcul](#programme-de-calcul)
 - [Projet pour expert](#projet-pour-expert)
 
 ## Projet pour débutant
-
+  1 [Programme de calcul](#programme-de-calcul)
 ## **Programme de Calcul**
    - Un exercice pour créer un programme de calcul.
    - [Lien vers le projet](#)
