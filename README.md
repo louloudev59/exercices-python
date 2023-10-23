@@ -22,10 +22,10 @@ Bienvenue dans le projet Entraînement ! Ce dépôt a pour but de vous aider à 
 - [Projet pour expert](#projet-pour-expert)
 
 ## Projet pour débutant
-  1 [Programme de calcul](#programme-de-calcul)
+  1. [Programme de calcul](#programme-de-calcul)
 ## **Programme de Calcul**
    - Un exercice pour créer un programme de calcul.
-   - [Lien vers le projet](#)
+   - [Lien vers le projet](projet%20débutant/1.%20Programme%20de%20calcul)
 
 N'hésitez pas à explorer les différents projets et exercices disponibles, et à contribuer en soumettant vos propres solutions ou en proposant de nouveaux projets.
 
