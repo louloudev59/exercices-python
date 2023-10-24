@@ -1,4 +1,4 @@
-# Consigne - Programme de calcul del'Aire de Cercle
+# Consigne - Programme de calcul de l'Aire de Cercle
 
 ## Objectif
 Le but de ce projet est de créer un programme qui calcule l'aire d'un cercle en fonction du rayon fourni par l'utilisateur. Pour obtenir la valeur de π (pi), nous utiliserons le module math.
