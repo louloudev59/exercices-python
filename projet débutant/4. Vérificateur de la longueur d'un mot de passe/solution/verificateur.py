@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 mot_de_passe = input("Entrez un mot de passe : ")
 
 if len(mot_de_passe) <8:
