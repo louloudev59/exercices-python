@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 import time
 
 phrase = input("entrez une phrase ou un mot, n'importe la/lequel/elle:  ")

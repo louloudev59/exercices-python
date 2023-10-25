@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 def nb_voyelles(phrase):
     VOWELS = ["a", "e", "i", "o", "u"]
     i = 0

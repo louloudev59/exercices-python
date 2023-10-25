@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 def nb_voyelles(phrase: str) -> int:
 
     """Fonction permettant de compter le nombre de voyelles au sein d'une chaîne de caractères.

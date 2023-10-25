@@ -1,4 +1,6 @@
+# Voici un exemple de code répondant à la consigne
 def nb_voyelles(mot: str):
+    
     # Prise en compte des voyelles existantes dans une liste
     voyelles = ['a','e','o','u','i','y']
     # Compteur de voyelles initialisé à 0 par défaut

@@ -1,4 +1,6 @@
+# Voici un exemple de code répondant à la consigne
 def nb_voyelles(phrase):
+    
     phrase.lower()
     if len(phrase) == 0:
         return 0
