@@ -40,4 +40,4 @@ N'hésitez pas à explorer différentes approches et à personnaliser ce projet 
 Bonne programmation !
 
 
-Ce fichier "consigne.md" sert de guide pour les utilisateurs qui souhaitent participer à votre projet en créant ce programme de multiplication. Vous pouvez le personnaliser davantage en fonction de vos besoins.
+Ce fichier "README.md" sert de guide pour les utilisateurs qui souhaitent participer à votre projet en créant ce programme de multiplication. Vous pouvez le personnaliser davantage en fonction de vos besoins.

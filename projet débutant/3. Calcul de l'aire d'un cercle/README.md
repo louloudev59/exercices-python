@@ -38,4 +38,4 @@ N'hésitez pas à explorer différentes approches et à personnaliser ce projet 
 Bonne programmation !
 
 
-Ce fichier "consigne.md" fournit des directives claires pour la création d'un programme de calcul de l'aire d'un cercle en utilisant le module math pour obtenir la valeur de π. Vous pouvez le personnaliser davantage en fonction de vos besoins.
+Ce fichier "README.md" fournit des directives claires pour la création d'un programme de calcul de l'aire d'un cercle en utilisant le module math pour obtenir la valeur de π. Vous pouvez le personnaliser davantage en fonction de vos besoins.

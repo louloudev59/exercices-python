@@ -37,4 +37,4 @@ N'hésitez pas à personnaliser ce projet en fonction de vos compétences et de 
 
 Bonne programmation !
 
-Ce fichier "consigne.md" fournit des directives claires pour la création d'un programme de vérification de la longueur d'un mot de passe. Personnalisez-le en fonction de vos besoins.
+Ce fichier "README.md" fournit des directives claires pour la création d'un programme de vérification de la longueur d'un mot de passe. Personnalisez-le en fonction de vos besoins.
