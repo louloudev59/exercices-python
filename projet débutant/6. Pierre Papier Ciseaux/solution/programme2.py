@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 from random import choice
 
 # déclaration des constantes

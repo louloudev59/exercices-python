@@ -1,4 +1,6 @@
+# Voici un exemple de code répondant à la consigne
 from random import choice
+
 
 propositions = ['pierre', 'papier', 'ciseaux']
 victoires = {'pierre':'papier', 'papier':'ciseaux', 'ciseaux':'pierre'}
