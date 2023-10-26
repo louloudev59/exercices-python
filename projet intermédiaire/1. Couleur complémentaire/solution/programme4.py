@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 import colorsys
 
 def get_color_types(hex):

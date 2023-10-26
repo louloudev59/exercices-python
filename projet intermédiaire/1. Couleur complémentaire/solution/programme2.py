@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 from colour import Color
 from colorsys import rgb_to_hsv, hsv_to_rgb
 

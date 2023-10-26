@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 from PIL import ImageColor
 import colorsys
 

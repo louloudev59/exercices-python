@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 def get_color_types(color: str) -> dict:
     """Retourne un dictionnaire des codes couleurs hex, rvb, tsl et tsl_norm
     à partir du code héxadécimal."""

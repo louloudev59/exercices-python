@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 from colorsys import rgb_to_hls
 
 def get_color_types(color:str) -> dict:

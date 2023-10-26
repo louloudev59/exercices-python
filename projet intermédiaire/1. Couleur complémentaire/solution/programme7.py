@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 # import des modules nécessaire
 import colorsys
 
