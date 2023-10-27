@@ -1,3 +1,5 @@
+# Voici un exemple de code répondant à la consigne
+
 import os
 
 # Vérifier si le fichier de sauvegarde existe
