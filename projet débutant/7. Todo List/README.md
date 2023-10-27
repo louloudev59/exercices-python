@@ -54,6 +54,7 @@ Pour utiliser ce programme, vous devrez :
 
 ## Bonus
 Si vous souhaitez ajouter une fonctionnalité supplémentaire à votre programme, vous pouvez envisager de d'ajouter une interface utilisateur pour que l'utilisateur puisse saisir leurs tâches.
+N'hésitez surtout pas à utiliser le module time afin de marquer des pauses au long du programme 
 
 N'hésitez pas à personnaliser ce projet en fonction de vos compétences et de vos objectifs d'apprentissage.
 
