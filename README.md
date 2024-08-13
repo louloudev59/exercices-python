@@ -55,7 +55,7 @@ Ce projet est sous licence MIT.
 
 ## Contributeurs 
 
-Merci à [@BOXERRMD](https://github.com/BOXERRMD) pour avoir créer le dossier [2. Usine de voiture](https://github.com/BOXERRMD/exercices-python/tree/main/projet%20interm%C3%A9diaire/2.%20Usine%20de%20voiture)
+Merci à [@BOXERRMD](https://github.com/BOXERRMD) pour avoir crée le dossier [2. Usine de voiture](https://github.com/BOXERRMD/exercices-python/tree/main/projet%20interm%C3%A9diaire/2.%20Usine%20de%20voiture)
 
 
 ---
