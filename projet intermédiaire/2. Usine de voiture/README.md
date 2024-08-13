@@ -1,7 +1,7 @@
 # Usine de voiture
 
 ## Introduction
-Bienvenue dans ce projet où vous allez fabriquer une "usine de voiture" en s'aidant d'une class. Il s'agit d'un niveau intermédiaire qui peut être réalisé par des débutants si la notion de class est acq uise.
+Bienvenue dans ce projet où vous allez fabriquer une "usine de voiture" en s'aidant d'une class. Il s'agit d'un niveau intermédiaire qui peut être réalisé par des débutants si la notion de class est acquise.
 
 ## Instructions
 Suivez les étapes ci-dessous pour réaliser ce projet :
