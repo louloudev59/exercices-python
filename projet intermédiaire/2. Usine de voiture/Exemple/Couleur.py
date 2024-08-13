@@ -1,0 +1,1 @@
+print('\033[92m' + 'Bonjour !\n' + '\033[0m' + 'Me voila de retour sur une couleur par défaut !')
